@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BluetoothPractica</string>
+    <string name="txtPrinc">Bluetooth</string>
+    <string name="txtBtnTO">Encender</string>
+    <string name="txtBtnTD">Apagar</string>
+    <string name="txtBtnDV">Modo visible</string>
+    <string name="txtBtnLD">Lista de dispositivos</string>
+    <string name="action_settings">Settings</string>
+    <string name="txtDE">Dispositivos emparejados</string>
+</resources>
+
+
